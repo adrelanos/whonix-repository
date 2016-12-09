@@ -1,3 +1,18 @@
+commit 1e071be34f2f18d1dec080217cc77017f9fa9b44
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 9 21:45:38 2016 +0000
+
+    fix warning 'W: Size of file is not what the server reported' usability issue
+    
+    https://github.com/QubesOS/qubes-issues/issues/2501
+    https://forums.whonix.org/t/whonix-forums-error-while-trying-to-load-something-went-wrong
+
+commit d8618a037be58e58dab7fe21b745bb22267aaf1f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Apr 19 22:03:03 2016 +0000
+
+    bumped changelog version
+
 commit 37c6ec8850f331193c1d3f44fde5b887434d3301
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Tue Apr 19 21:59:09 2016 +0000
